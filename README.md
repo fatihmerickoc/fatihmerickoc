@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [@fatihmerickoc](@fatihmerickoc)
+- 👨‍💻 All of my projects are available at this Github account
 
 - 💬 Ask me about **Flutter & Dart**
 
